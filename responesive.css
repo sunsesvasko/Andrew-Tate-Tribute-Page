@@ -1,0 +1,472 @@
+@import url(style.css);
+
+@media (max-width: 1450px) {
+    .section__biography__header {
+        padding: 5rem 24.5rem;
+    }
+    .section__biography__paragraph {
+        margin-left: 24%;
+    }
+    .section__biography__creator {
+        margin: 4rem 38rem;
+    }
+}
+
+@media (max-width: 1400px) {
+    #fontIcon {
+        left: 41rem;
+    }
+    .section__quote__paragraph--andrew {
+        left: 300px;
+    }
+    #andrewTate {
+        left: 60%;
+    }
+    .section__quote__paragraph--tristan {
+        left: 650px;        
+    }    
+    .section__biography__header {
+        padding: 5rem 23.0rem;
+    }
+    .section__biography__paragraph {
+        margin-left: 23%;
+    }
+    .section__biography__creator {
+        margin: 4rem 37rem;
+    }
+}
+
+@media (max-width: 1350px) {
+    #fontIcon {
+        left: 39.5rem;
+    }
+    .section__quote__paragraph--andrew {
+        left: 275px;
+    }
+    #andrewTate {
+        left: 58.5%;
+    }
+    .section__quote__paragraph--tristan {
+        left: 625px;
+    }
+    .section__biography__header {
+        padding: 5rem 21.5rem;
+    }
+    .section__biography__paragraph {
+        margin-left: 22%;
+    }
+    .section__biography__creator {
+        margin: 4rem 36rem;
+    }
+}
+
+@media (max-width: 1300px) {
+    #fontIcon {
+        left: 38rem;
+    }
+    .section__quote__paragraph--andrew {
+        left: 250px;
+    }
+    #andrewTate {
+        left: 57%;
+    }
+    .section__quote__paragraph--tristan {
+        left: 600px;
+    }
+    .section__biography__header {
+        padding: 5rem 20rem;
+    }
+    .section__biography__paragraph {
+        margin-left: 21%;
+    }
+    .section__biography__creator {
+        margin: 4rem 35rem;
+    }
+}
+
+@media (max-width: 1250px) {
+    #fontIcon {
+        left: 36.5rem;
+    }
+    .section__quote__paragraph--andrew {
+        left: 225px;
+    }
+    #andrewTate {
+        left: 55.5%;
+    }
+    .section__quote__paragraph--tristan {
+        left: 575px;
+    }
+    .section__biography__header {
+        padding: 5rem 18.5rem;
+    }
+    .section__biography__paragraph {
+        margin-left: 20%;
+    }
+    .section__biography__creator {
+        margin: 4rem 34rem;
+    }
+}
+
+@media (max-width: 1200px) {
+    #fontIcon {
+        left: 35rem;
+    }
+    .section__quote__paragraph--andrew {
+        left: 200px;
+    }
+    #andrewTate {
+        left: 54%;
+    }
+    .section__quote__paragraph--tristan {
+        left: 550px;
+    }
+    .section__biography__header {
+        padding: 5rem 17rem;
+    }
+    .section__biography__paragraph {
+        margin-left: 19%;
+    }
+    .section__biography__creator {
+        margin: 4rem 33rem;
+    }
+}
+
+@media (max-width: 1150px) {
+    #fontIcon {
+        left: 33.5rem;
+    }
+    .section__quote__paragraph--andrew {
+        left: 175px;
+    }
+    #andrewTate {
+        left: 52.5%;
+    }
+    .section__quote__paragraph--tristan {
+        left: 525px;
+    }
+    .section__biography__header {
+        padding: 5rem 15.5rem;
+    }
+    .section__biography__paragraph {
+        margin-left: 18%;
+    }
+    .section__biography__creator {
+        margin: 4rem 32rem;
+    }
+}
+
+@media (max-width: 1100px) {
+    #fontIcon {
+        left: 32rem;
+    }
+    .section__quote__paragraph--andrew {
+        left: 150px;
+    }
+    #andrewTate {
+        left: 51%;
+    }
+    .section__quote__paragraph--tristan {
+        left: 500px;
+    }
+    .section__biography__header {
+        padding: 5rem 14rem;
+    }
+    .section__biography__paragraph {
+        margin-left: 17%;
+    }
+    .section__biography__creator {
+        margin: 4rem 31rem;
+    }
+}
+
+@media (max-width: 1050px) {
+    #fontIcon {
+        left: 30.5rem;
+    }
+    .section__quote__paragraph--andrew {
+        left: 125px;
+    }
+    #andrewTate {
+        left: 49.5%;
+    }
+    .section__quote__paragraph--tristan {
+        left: 475px;
+    }
+    .section__biography__header {
+        padding: 5rem 12.5rem;
+    }
+    .section__biography__paragraph {
+        margin-left: 16%;
+    }
+    .section__biography__creator {
+        margin: 4rem 30rem;
+    }
+}
+
+@media (max-width: 1000px) {
+    #fontIcon {
+        left: 29rem;
+    }
+    .section__quote__paragraph--andrew {
+        left: 100px;
+    }
+    #andrewTate {
+        left: 48%;
+    }
+    .section__quote__paragraph--tristan {
+        left: 450px;
+    }
+    .section__biography__header {
+        padding: 5rem 11rem; 
+    }
+    .section__biography__paragraph {
+        margin-left: 14%;
+    }
+    .section__biography__creator {
+        margin: 4rem 28rem;
+    }
+}
+
+@media (max-width: 950px) {
+    #fontIcon {
+        left: 27.5rem;
+    }
+    .section__quote__paragraph--andrew {
+        left: 75px;
+    }
+    #andrewTate {
+        left: 46.5%;
+    }
+    .section__biography__header {
+        padding: 5rem 9.5rem;
+    }
+    .section__biography__paragraph {
+        margin-left: 12%;
+    }
+    .section__biography__creator {
+        margin: 4rem 26rem;
+    }
+}
+
+@media (max-width: 900px) {
+    #fontIcon {
+        left: 26rem;
+    }
+    #andrewTate {
+        left: 45%;
+    }
+    .section__quote__paragraph--andrew {
+        left: 50px;
+        top: 260px;
+    }
+    .section__biography__header {
+        padding: 5rem 8rem;
+    }
+    .section__biography__paragraph {
+        margin-left: 10%;
+    }
+    .section__biography__creator {
+        margin: 4rem 24rem;
+    }
+}
+
+@media (max-width: 850px) {
+    #fontIcon {
+        left: 24.5rem;
+    }
+    .section__biography__header {
+        padding: 5rem 6.5rem;
+    }
+    .section__biography__paragraph {
+        margin-left: 8%;
+    }
+    .section__biography__creator {
+        margin: 4rem 22rem;
+    }
+}
+
+@media (max-width: 800px) {
+    #fontIcon {
+        left: 23rem;
+    }
+    #andrewTate {
+        left: 35%;
+    }
+    .section__quote__paragraph--andrew {
+        left: 25px;
+        top: 260px;
+        width: 250px;
+    
+    } 
+    .section__biography {
+        height: 1000px;
+    }
+    .section__biography__paragraph {
+        width: 500px;
+    }
+    .section__biography__header {
+        padding: 5rem 5rem;
+    }
+    .section__biography__paragraph {
+        margin-left: 6%;
+    }
+    .section__biography__creator {
+        margin: 4rem 16rem;
+    }
+}
+
+@media (max-width: 750px) {
+    #fontIcon {
+        left: 21.5rem;
+    }
+    .section__biography {
+        height: 1000px;
+    }
+    .section__biography__paragraph {
+        width: 500px;
+    }
+    .section__biography__paragraph {
+        width: 500px;
+    }
+    .section__biography__header {
+        padding: 5rem 4rem;
+    }
+    .section__biography__paragraph {
+        margin-left: 4%;
+    }
+    .section__biography__creator {
+        margin: 4rem 14rem;
+    }
+}
+
+@media (max-width: 700px) {
+    #fontIcon {
+        left: 20rem;
+    }
+    #andrewTate {
+        left: 30%;
+    }
+    .section__quote__paragraph--andrew {
+        left: 0px;
+        top: 260px;
+        width: 200px;
+    }
+    .section__biography__header {
+        padding: 5rem 4rem;
+    }
+    .section__biography__paragraph {
+        margin-left: 2%;
+    }
+    .section__biography__creator {
+        margin: 4rem 14rem;
+    }
+}
+
+@media (max-width: 650px) {
+    #fontIcon {
+        left: 18.5rem;
+    }
+    .section__biography {
+        height: 1100px;
+    }
+    .section__biography__paragraph {
+        width: 450px;
+    }
+}
+
+@media (max-width: 600px) {
+    #fontIcon {
+        left: 17rem;
+    }
+    #andrewTate {
+        left: 5%;
+        top: 50%;
+    }
+    #tristanTate {
+        top: 50%;
+    }
+    .section__quote--andrew {
+        height: 1200px;
+    }
+    .section__quote__paragraph--andrew {
+        left: 25%;
+        top: 25%;
+        width: 100%;
+    }
+    .section__quote--tristan {
+        height: 1200px;
+    }
+    .section__quote__paragraph--tristan {
+        left: 100px;
+    }
+    .section__biography__header {
+        padding: 5rem 3rem;
+    }
+    .section__biography__paragraph {
+        margin-left: 1%;
+    }
+    .section__biography__creator {
+        margin: 4rem 12rem;
+    }
+}
+
+@media (max-width: 550px) {
+    #fontIcon {
+        left: 15.5rem;
+    }
+    #andrewTate {
+        left: 2.5%;
+    }
+    .section__quote__paragraph--andrew {
+        left: 22.5%;
+    }
+    .section__quote__paragraph--tristan {
+        left: 22.5%;
+    }
+    .section__biography {
+        height: 1150px;
+    }
+    .section__biography__paragraph {
+        width: 400px;
+    }
+    .section__biography__header {
+        padding: 5rem 3rem;
+    }
+    .section__biography__paragraph {
+        margin-left: 1%;
+    }
+    .section__biography__creator {
+        margin: 4rem 11rem;
+    }
+}
+
+@media (max-width: 500px) {
+    #fontIcon {
+        left: 13rem;
+    }
+    #andrewTate {
+        left: -15%;
+    }
+    .section__quote__paragraph--andrew {
+        left: 14%;
+    }
+    .section__quote__paragraph--tristan {
+        left: 10%;
+    }
+    .section__biography {
+        height: 1250px;
+    }
+    .section__biography__paragraph {
+        width: 350px;
+    }
+    .section__biography__header {
+        padding: 5rem 3rem;
+    }
+    .section__biography__paragraph {
+        margin-left: 1%;
+    }
+    .section__biography__creator {
+        margin: 4rem 9rem;
+    }
+}
